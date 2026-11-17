@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-11-12",
+    "home": "Leadonites",
+    "away": "Tiger Sharks",
+    "homeScore": 64,
+    "awayScore": 51,
+    "opponent": "Tiger Sharks"
+  },
+  {
+    "date": "2026-10-08",
+    "home": "Chargers",
+    "away": "Leadonites",
+    "homeScore": 54,
+    "awayScore": 80,
+    "opponent": "Chargers"
+  },
+  {
+    "date": "2026-09-30",
+    "home": "Tiger Sharks",
+    "away": "Leadonites",
+    "homeScore": 37,
+    "awayScore": 49,
+    "opponent": "Tiger Sharks"
+  }
+]
