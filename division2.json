@@ -1,0 +1,79 @@
+[
+  {
+    "position": 1,
+    "team": "Cyclones",
+    "played": 6,
+    "won": 5,
+    "lost": 1,
+    "for": 465,
+    "against": 357,
+    "difference": 108,
+    "points": "16-0"
+  },
+  {
+    "position": 2,
+    "team": "Vipers",
+    "played": 5,
+    "won": 5,
+    "lost": 0,
+    "for": 376,
+    "against": 229,
+    "difference": 147,
+    "points": "15-0"
+  },
+  {
+    "position": 3,
+    "team": "Leadonites",
+    "played": 6,
+    "won": 4,
+    "lost": 2,
+    "for": 346,
+    "against": 353,
+    "difference": -7,
+    "points": "14-0"
+  },
+  {
+    "position": 4,
+    "team": "White Sharks",
+    "played": 4,
+    "won": 3,
+    "lost": 1,
+    "for": 286,
+    "against": 273,
+    "difference": 13,
+    "points": "10-0"
+  },
+  {
+    "position": 5,
+    "team": "Chargers",
+    "played": 5,
+    "won": 1,
+    "lost": 4,
+    "for": 289,
+    "against": 391,
+    "difference": -102,
+    "points": "7-0"
+  },
+  {
+    "position": 6,
+    "team": "Eagles",
+    "played": 5,
+    "won": 1,
+    "lost": 4,
+    "for": 239,
+    "against": 279,
+    "difference": -40,
+    "points": "7-0"
+  },
+  {
+    "position": 7,
+    "team": "Tiger Sharks",
+    "played": 7,
+    "won": 0,
+    "lost": 7,
+    "for": 335,
+    "against": 454,
+    "difference": -119,
+    "points": "7-0"
+  }
+]
