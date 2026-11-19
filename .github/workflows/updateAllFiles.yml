@@ -1,0 +1,52 @@
+name: Update All Teams
+
+on:
+  schedule:
+    - cron: "23 12,23 * * *" 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 selenium webdriver-manager
+      # --- RUN SCRIPTS SEQUENTIALLY ---
+      
+      - name: Run Mens Scripts
+        run: |
+          python mens/mensFixtures.py
+          python mens/mensResults.py
+          
+      - name: Run 2027 Scripts
+        run: |
+          python Class2027/2027fixtures.py
+          python Class2027/2027table.py
+          
+      - name: Run 2030 Scripts
+        run: |
+          python Class2030/2030fixtures.py
+          python Class2030/2030table.py
+          
+      - name: Run 2031 Scripts
+        run: |
+          python Class2031/2031fixtures.py
+          python Class2031/2031table.py
+
+      # --- COMMIT ALL CHANGES AT THE END ---
+      
+      - name: Commit and Push changes
+        run: |
+          git config user.name "fixtures-bot"
+          git config user.email "bot@users.noreply.github.com"
+          # This adds ALL modified/created json files across the whole repo
+          git add
+          # Only commit if there are actual changes
+          git diff --staged --quiet || (git commit -m "Automated update: all teams" && git push)
