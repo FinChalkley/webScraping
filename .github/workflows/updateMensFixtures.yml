@@ -1,4 +1,3 @@
-# .github/workflows/updateMensFixtures.yml
 name: Update fixtures
 on:
   schedule:

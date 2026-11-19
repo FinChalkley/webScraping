@@ -1,0 +1,79 @@
+[
+  {
+    "position": 1,
+    "team": "Vale Vipers U14",
+    "played": 2,
+    "won": 2,
+    "lost": 0,
+    "for": 155,
+    "against": 90,
+    "difference": 65,
+    "points": 4
+  },
+  {
+    "position": 2,
+    "team": "Port Talbot Spartans U14",
+    "played": 3,
+    "won": 2,
+    "lost": 1,
+    "for": 247,
+    "against": 169,
+    "difference": 78,
+    "points": 4
+  },
+  {
+    "position": 3,
+    "team": "Cardiff Tribal Hunters U14",
+    "played": 4,
+    "won": 2,
+    "lost": 2,
+    "for": 231,
+    "against": 253,
+    "difference": -22,
+    "points": 4
+  },
+  {
+    "position": 4,
+    "team": "Leadonites BC U14",
+    "played": 3,
+    "won": 1,
+    "lost": 2,
+    "for": 138,
+    "against": 155,
+    "difference": -17,
+    "points": 2
+  },
+  {
+    "position": 5,
+    "team": "Newport Fire U14",
+    "played": 1,
+    "won": 1,
+    "lost": 0,
+    "for": 80,
+    "against": 47,
+    "difference": 33,
+    "points": 2
+  },
+  {
+    "position": 6,
+    "team": "Swansea Storm U14 White",
+    "played": 1,
+    "won": 1,
+    "lost": 0,
+    "for": 111,
+    "against": 35,
+    "difference": 76,
+    "points": 2
+  },
+  {
+    "position": 7,
+    "team": "Cardiff Met Archers U14",
+    "played": 4,
+    "won": 0,
+    "lost": 4,
+    "for": 138,
+    "against": 351,
+    "difference": -213,
+    "points": 0
+  }
+]
