@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "team": "Vipers",
+    "played": 6,
+    "won": 6,
+    "lost": 0,
+    "for": 435,
+    "against": 276,
+    "difference": 159,
+    "points": "18-0"
+  },
+  {
+    "position": 2,
     "team": "Cyclones",
     "played": 6,
     "won": 5,
@@ -9,17 +20,6 @@
     "against": 357,
     "difference": 108,
     "points": "16-0"
-  },
-  {
-    "position": 2,
-    "team": "Vipers",
-    "played": 5,
-    "won": 5,
-    "lost": 0,
-    "for": 376,
-    "against": 229,
-    "difference": 147,
-    "points": "15-0"
   },
   {
     "position": 3,
@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "team": "Eagles",
+    "played": 6,
+    "won": 1,
+    "lost": 5,
+    "for": 286,
+    "against": 338,
+    "difference": -52,
+    "points": "8-0"
+  },
+  {
+    "position": 6,
     "team": "Chargers",
     "played": 5,
     "won": 1,
@@ -52,17 +63,6 @@
     "for": 289,
     "against": 391,
     "difference": -102,
-    "points": "7-0"
-  },
-  {
-    "position": 6,
-    "team": "Eagles",
-    "played": 5,
-    "won": 1,
-    "lost": 4,
-    "for": 239,
-    "against": 279,
-    "difference": -40,
     "points": "7-0"
   },
   {
