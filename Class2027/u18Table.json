@@ -1,0 +1,90 @@
+[
+  {
+    "position": 1,
+    "team": "Cardiff Met Archers U18",
+    "played": 3,
+    "won": 3,
+    "lost": 0,
+    "for": 293,
+    "against": 190,
+    "difference": 103,
+    "points": 6
+  },
+  {
+    "position": 2,
+    "team": "Cardiff Met Archers U18 B",
+    "played": 2,
+    "won": 2,
+    "lost": 0,
+    "for": 170,
+    "against": 103,
+    "difference": 67,
+    "points": 4
+  },
+  {
+    "position": 3,
+    "team": "Cardiff City",
+    "played": 2,
+    "won": 2,
+    "lost": 0,
+    "for": 216,
+    "against": 102,
+    "difference": 114,
+    "points": 4
+  },
+  {
+    "position": 4,
+    "team": "Vale Vipers",
+    "played": 4,
+    "won": 2,
+    "lost": 2,
+    "for": 286,
+    "against": 331,
+    "difference": -45,
+    "points": 4
+  },
+  {
+    "position": 5,
+    "team": "Cougars U18",
+    "played": 3,
+    "won": 1,
+    "lost": 2,
+    "for": 230,
+    "against": 289,
+    "difference": -59,
+    "points": 2
+  },
+  {
+    "position": 6,
+    "team": "Leadonites U18",
+    "played": 3,
+    "won": 0,
+    "lost": 3,
+    "for": 158,
+    "against": 284,
+    "difference": -126,
+    "points": 0
+  },
+  {
+    "position": 7,
+    "team": "Pontypridd Panthers U18",
+    "played": 2,
+    "won": 0,
+    "lost": 2,
+    "for": 118,
+    "against": 166,
+    "difference": -48,
+    "points": 0
+  },
+  {
+    "position": 8,
+    "team": "Swansea Storm",
+    "played": 1,
+    "won": 0,
+    "lost": 1,
+    "for": 80,
+    "against": 86,
+    "difference": -6,
+    "points": 0
+  }
+]

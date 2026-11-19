@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-11-19",
+    "time": "19:50",
+    "home": "Leadonites",
+    "away": "Cyclones",
+    "opponent": "Cyclones",
+    "isHome": true
+  },
+  {
+    "date": "2026-11-26",
+    "time": "19:50",
+    "home": "Leadonites",
+    "away": "White Sharks",
+    "opponent": "White Sharks",
+    "isHome": true
+  },
+  {
+    "date": "2026-12-03",
+    "time": "19:50",
+    "home": "Leadonites",
+    "away": "Vipers",
+    "opponent": "Vipers",
+    "isHome": true
+  }
+]
