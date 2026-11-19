@@ -1,9 +1,9 @@
-# .github/workflows/fixtures.yml
+# .github/workflows/updateMensFixtures.yml
 name: Update fixtures
 on:
   schedule:
     - cron: "0 8,12,17,21 * * *"
-  workflow_dispatch:  
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,12 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
+        with:
+          python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python mensFixtures.py
       - name: Commit if changed
-      - run: |
+        run: |
           git config user.name "fixtures-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add leadonites-results.json
+          git add mens/MensResults.json mens/MensFixtures.json
           git diff --staged --quiet || (git commit -m "Update results" && git push)
