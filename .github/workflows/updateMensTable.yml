@@ -1,7 +1,7 @@
 name: Update table
 on:
   schedule:
-    - cron: "10 8,12,17,21 * * *"   # 4 times a day (UTC)
+    - cron: "23 8,12,17,21 * * *"   # 4 times a day (UTC)
   workflow_dispatch:                # lets you run it manually too
 
 permissions:

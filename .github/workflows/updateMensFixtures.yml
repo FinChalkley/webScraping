@@ -2,7 +2,7 @@
 name: Update fixtures
 on:
   schedule:
-    - cron: "10 8,12,17,21 * * *"
+    - cron: "23 8,12,17,21 * * *"
   workflow_dispatch:
 
 permissions:
