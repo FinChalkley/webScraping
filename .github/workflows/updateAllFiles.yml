@@ -23,7 +23,7 @@ jobs:
       - name: Run Mens Scripts
         run: |
           python mens/mensFixtures.py
-          python mens/mensResults.py
+          python mens/mensTable.py
           
       - name: Run 2027 Scripts
         run: |
