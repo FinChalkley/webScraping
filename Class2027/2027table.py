@@ -59,5 +59,5 @@ for i, table in enumerate(tables):
 if not rows:
     raise SystemExit("No standings rows found - check raw_page.html (see notes)")
 
-with open("class2027/u18Table.json", "w", encoding="utf-8") as f:
+with open("Class2027/u18Table.json", "w", encoding="utf-8") as f:
     json.dump(rows, f, indent=2)
