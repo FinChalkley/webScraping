@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "time": "20:15",
-    "home": "Swansea Storm U18M",
-    "away": "Leadonites U18",
-    "opponent": "Swansea Storm U18M",
-    "isHome": false
-  },
-  {
     "date": "2026-11-28",
     "time": "16:00",
     "home": "Cardiff Met Archers U18 B",
@@ -22,5 +14,13 @@
     "away": "Cardiff Met Archers U18 B",
     "opponent": "Cardiff Met Archers U18 B",
     "isHome": true
+  },
+  {
+    "date": "2027-01-30",
+    "time": "12:30",
+    "home": "Cougars U18",
+    "away": "Leadonites U18",
+    "opponent": "Cougars U18",
+    "isHome": false
   }
 ]
