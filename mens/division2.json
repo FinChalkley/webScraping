@@ -13,24 +13,24 @@
   {
     "position": 2,
     "team": "Cyclones",
-    "played": 6,
+    "played": 7,
     "won": 5,
-    "lost": 1,
-    "for": 465,
-    "against": 357,
-    "difference": 108,
-    "points": "16-0"
+    "lost": 2,
+    "for": 520,
+    "against": 418,
+    "difference": 102,
+    "points": "17-0"
   },
   {
     "position": 3,
     "team": "Leadonites",
-    "played": 6,
-    "won": 4,
+    "played": 7,
+    "won": 5,
     "lost": 2,
-    "for": 346,
-    "against": 353,
-    "difference": -7,
-    "points": "14-0"
+    "for": 407,
+    "against": 408,
+    "difference": -1,
+    "points": "17-0"
   },
   {
     "position": 4,

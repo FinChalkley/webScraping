@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-11-19",
-    "time": "19:50",
-    "home": "Leadonites",
-    "away": "Cyclones",
-    "opponent": "Cyclones",
-    "isHome": true
-  },
-  {
     "date": "2026-11-26",
     "time": "19:50",
     "home": "Leadonites",
@@ -21,6 +13,14 @@
     "home": "Leadonites",
     "away": "Vipers",
     "opponent": "Vipers",
+    "isHome": true
+  },
+  {
+    "date": "2026-12-10",
+    "time": "19:50",
+    "home": "Leadonites",
+    "away": "Chargers",
+    "opponent": "Chargers",
     "isHome": true
   }
 ]
