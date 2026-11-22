@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "team": "Newport Fire U14",
+    "played": 2,
+    "won": 2,
+    "lost": 0,
+    "for": 160,
+    "against": 117,
+    "difference": 43,
+    "points": 4
+  },
+  {
+    "position": 3,
     "team": "Vale Vipers U14",
     "played": 2,
     "won": 2,
@@ -19,17 +30,6 @@
     "for": 155,
     "against": 90,
     "difference": 65,
-    "points": 4
-  },
-  {
-    "position": 3,
-    "team": "Port Talbot Spartans U14",
-    "played": 4,
-    "won": 2,
-    "lost": 2,
-    "for": 302,
-    "against": 290,
-    "difference": 12,
     "points": 4
   },
   {
@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "team": "Port Talbot Spartans U14",
+    "played": 5,
+    "won": 2,
+    "lost": 3,
+    "for": 372,
+    "against": 370,
+    "difference": 2,
+    "points": 4
+  },
+  {
+    "position": 6,
     "team": "Leadonites BC U14",
     "played": 3,
     "won": 1,
@@ -52,17 +63,6 @@
     "for": 138,
     "against": 155,
     "difference": -17,
-    "points": 2
-  },
-  {
-    "position": 6,
-    "team": "Newport Fire U14",
-    "played": 1,
-    "won": 1,
-    "lost": 0,
-    "for": 80,
-    "against": 47,
-    "difference": 33,
     "points": 2
   },
   {

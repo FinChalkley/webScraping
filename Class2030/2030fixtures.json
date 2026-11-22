@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-11-22",
-    "time": "12:30 PM",
-    "home": "Worcester Wolves Academy U15 Zonal",
-    "away": "Leadonites U15 Zonal",
-    "opponent": "Worcester Wolves Academy U15 Zonal"
-  },
-  {
     "date": "2026-11-29",
     "time": "03:20 PM",
     "home": "Leadonites U15 Zonal",
@@ -19,5 +12,12 @@
     "home": "Leadonites U15 Zonal",
     "away": "Stroud Sharks U15 Zonal",
     "opponent": "Stroud Sharks U15 Zonal"
+  },
+  {
+    "date": "2027-01-23",
+    "time": "12:00 PM",
+    "home": "Bromsgrove School U15 Zonal",
+    "away": "Leadonites U15 Zonal",
+    "opponent": "Bromsgrove School U15 Zonal"
   }
 ]

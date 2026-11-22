@@ -1,24 +1,33 @@
 [
   {
     "position": 1,
-    "team": "Leadonites U15 Zonal",
-    "played": 2,
-    "won": 2,
+    "team": "Worcester Wolves Academy U15 Zonal",
+    "played": 3,
+    "won": 3,
     "lost": 0,
-    "points": 6,
-    "win_percentage": 353.7
+    "points": 9,
+    "win_percentage": 142.77
   },
   {
     "position": 2,
-    "team": "Worcester Wolves Academy U15 Zonal",
-    "played": 2,
+    "team": "Leadonites U15 Zonal",
+    "played": 3,
     "won": 2,
-    "lost": 0,
-    "points": 6,
-    "win_percentage": 159.8
+    "lost": 1,
+    "points": 7,
+    "win_percentage": 210.17
   },
   {
     "position": 3,
+    "team": "Cheltenham Chargers U15 Zonal",
+    "played": 4,
+    "won": 1,
+    "lost": 3,
+    "points": 6,
+    "win_percentage": 83.69
+  },
+  {
+    "position": 4,
     "team": "Bromsgrove School U15 Zonal",
     "played": 1,
     "won": 1,
@@ -27,21 +36,12 @@
     "win_percentage": 131.48
   },
   {
-    "position": 4,
-    "team": "Cheltenham Chargers U15 Zonal",
+    "position": 5,
+    "team": "Stroud Sharks U15 Zonal",
     "played": 3,
     "won": 0,
     "lost": 3,
     "points": 3,
-    "win_percentage": 65.13
-  },
-  {
-    "position": 5,
-    "team": "Stroud Sharks U15 Zonal",
-    "played": 2,
-    "won": 0,
-    "lost": 2,
-    "points": 2,
-    "win_percentage": 29.41
+    "win_percentage": 36.94
   }
 ]
