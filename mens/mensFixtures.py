@@ -71,7 +71,6 @@ def scrapeFixtures(limit=3):
             "home": row["home"],
             "away": row["away"],
             "opponent": row["away"] if row["home"] == TEAM else row["home"],
-            "isHome": row["home"] == TEAM,
         })
     fixtures.sort(key=lambda x: (x["date"], x["time"]))  # soonest first
     return fixtures[:limit]
