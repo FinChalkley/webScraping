@@ -4,23 +4,20 @@
     "time": "19:50",
     "home": "Leadonites",
     "away": "White Sharks",
-    "opponent": "White Sharks",
-    "isHome": true
+    "opponent": "White Sharks"
   },
   {
     "date": "2026-12-03",
     "time": "19:50",
     "home": "Leadonites",
     "away": "Vipers",
-    "opponent": "Vipers",
-    "isHome": true
+    "opponent": "Vipers"
   },
   {
     "date": "2026-12-10",
     "time": "19:50",
     "home": "Leadonites",
     "away": "Chargers",
-    "opponent": "Chargers",
-    "isHome": true
+    "opponent": "Chargers"
   }
 ]

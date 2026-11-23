@@ -4,23 +4,20 @@
     "time": "19:15",
     "home": "Swansea Storm U14 White",
     "away": "Leadonites BC U14",
-    "opponent": "Swansea Storm U14 White",
-    "isHome": false
+    "opponent": "Swansea Storm U14 White"
   },
   {
     "date": "2026-12-13",
     "time": "13:20",
     "home": "Leadonites BC U14",
     "away": "Port Talbot Spartans U14",
-    "opponent": "Port Talbot Spartans U14",
-    "isHome": true
+    "opponent": "Port Talbot Spartans U14"
   },
   {
     "date": "2026-12-20",
     "time": "10:15",
     "home": "Newport Fire U14",
     "away": "Leadonites BC U14",
-    "opponent": "Newport Fire U14",
-    "isHome": false
+    "opponent": "Newport Fire U14"
   }
 ]
