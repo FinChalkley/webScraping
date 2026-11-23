@@ -56,17 +56,28 @@
   },
   {
     "position": 6,
-    "team": "Leadonites U18",
-    "played": 3,
-    "won": 0,
-    "lost": 3,
-    "for": 158,
-    "against": 284,
-    "difference": -126,
-    "points": 0
+    "team": "Swansea Storm",
+    "played": 2,
+    "won": 1,
+    "lost": 1,
+    "for": 100,
+    "against": 86,
+    "difference": 14,
+    "points": 2
   },
   {
     "position": 7,
+    "team": "Leadonites U18",
+    "played": 4,
+    "won": 0,
+    "lost": 4,
+    "for": 158,
+    "against": 304,
+    "difference": -146,
+    "points": 0
+  },
+  {
+    "position": 8,
     "team": "Pontypridd Panthers U18",
     "played": 2,
     "won": 0,
@@ -74,17 +85,6 @@
     "for": 118,
     "against": 166,
     "difference": -48,
-    "points": 0
-  },
-  {
-    "position": 8,
-    "team": "Swansea Storm",
-    "played": 1,
-    "won": 0,
-    "lost": 1,
-    "for": 80,
-    "against": 86,
-    "difference": -6,
     "points": 0
   }
 ]

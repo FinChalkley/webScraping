@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-20",
+    "home": "Swansea Storm U18M",
+    "away": "Leadonites U18",
+    "homeScore": 20,
+    "awayScore": 0,
+    "opponent": "Swansea Storm U18M"
+  },
+  {
     "date": "2026-10-31",
     "home": "Cardiff Met Archers U18",
     "away": "Leadonites U18",
@@ -14,13 +22,5 @@
     "homeScore": 57,
     "awayScore": 115,
     "opponent": "Cardiff City 18M"
-  },
-  {
-    "date": "2026-09-27",
-    "home": "Leadonites U18",
-    "away": "Vale Vipers U18M",
-    "homeScore": 38,
-    "awayScore": 79,
-    "opponent": "Vale Vipers U18M"
   }
 ]
