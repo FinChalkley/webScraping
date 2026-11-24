@@ -2,13 +2,13 @@
   {
     "position": 1,
     "team": "Vipers",
-    "played": 6,
-    "won": 6,
+    "played": 7,
+    "won": 7,
     "lost": 0,
-    "for": 435,
-    "against": 276,
-    "difference": 159,
-    "points": "18-0"
+    "for": 496,
+    "against": 323,
+    "difference": 173,
+    "points": "21-0"
   },
   {
     "position": 2,
@@ -35,13 +35,13 @@
   {
     "position": 4,
     "team": "White Sharks",
-    "played": 4,
+    "played": 5,
     "won": 3,
-    "lost": 1,
-    "for": 286,
-    "against": 273,
-    "difference": 13,
-    "points": "10-0"
+    "lost": 2,
+    "for": 333,
+    "against": 334,
+    "difference": -1,
+    "points": "11-0"
   },
   {
     "position": 5,
