@@ -1,46 +1,46 @@
 [
   {
     "position": 1,
-    "team": "Swansea Storm U14 White",
-    "played": 2,
-    "won": 2,
+    "team": "Newport Fire U14",
+    "played": 4,
+    "won": 4,
     "lost": 0,
-    "for": 232,
-    "against": 90,
-    "difference": 142,
-    "points": 4
+    "for": 336,
+    "against": 205,
+    "difference": 131,
+    "points": 8
   },
   {
     "position": 2,
-    "team": "Newport Fire U14",
-    "played": 2,
-    "won": 2,
+    "team": "Swansea Storm U14 White",
+    "played": 3,
+    "won": 3,
     "lost": 0,
-    "for": 160,
-    "against": 117,
-    "difference": 43,
-    "points": 4
+    "for": 315,
+    "against": 142,
+    "difference": 173,
+    "points": 6
   },
   {
     "position": 3,
     "team": "Vale Vipers U14",
-    "played": 2,
-    "won": 2,
-    "lost": 0,
-    "for": 155,
-    "against": 90,
-    "difference": 65,
-    "points": 4
+    "played": 4,
+    "won": 3,
+    "lost": 1,
+    "for": 278,
+    "against": 220,
+    "difference": 58,
+    "points": 6
   },
   {
     "position": 4,
     "team": "Cardiff Tribal Hunters U14",
-    "played": 4,
+    "played": 5,
     "won": 2,
-    "lost": 2,
-    "for": 231,
-    "against": 253,
-    "difference": -22,
+    "lost": 3,
+    "for": 282,
+    "against": 329,
+    "difference": -47,
     "points": 4
   },
   {
@@ -68,12 +68,12 @@
   {
     "position": 7,
     "team": "Cardiff Met Archers U14",
-    "played": 4,
+    "played": 6,
     "won": 0,
-    "lost": 4,
-    "for": 138,
-    "against": 351,
-    "difference": -213,
+    "lost": 6,
+    "for": 222,
+    "against": 522,
+    "difference": -300,
     "points": 0
   }
 ]
