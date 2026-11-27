@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-11-28",
-    "time": "16:00",
-    "home": "Cardiff Met Archers U18 B",
-    "away": "Leadonites U18",
-    "opponent": "Cardiff Met Archers U18 B",
-    "isHome": false
-  },
-  {
     "date": "2027-01-09",
     "time": "15:20",
     "home": "Leadonites U18",
@@ -21,6 +13,14 @@
     "home": "Cougars U18",
     "away": "Leadonites U18",
     "opponent": "Cougars U18",
+    "isHome": false
+  },
+  {
+    "date": "2027-02-03",
+    "time": "18:30",
+    "home": "Cardiff City 18M",
+    "away": "Leadonites U18",
+    "opponent": "Cardiff City 18M",
     "isHome": false
   }
 ]

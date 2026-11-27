@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "team": "Leadonites",
+    "played": 8,
+    "won": 5,
+    "lost": 3,
+    "for": 489,
+    "against": 495,
+    "difference": -6,
+    "points": "18-0"
+  },
+  {
+    "position": 3,
     "team": "Cyclones",
     "played": 7,
     "won": 5,
@@ -22,26 +33,15 @@
     "points": "17-0"
   },
   {
-    "position": 3,
-    "team": "Leadonites",
-    "played": 7,
-    "won": 5,
-    "lost": 2,
-    "for": 407,
-    "against": 408,
-    "difference": -1,
-    "points": "17-0"
-  },
-  {
     "position": 4,
     "team": "White Sharks",
-    "played": 5,
-    "won": 3,
+    "played": 6,
+    "won": 4,
     "lost": 2,
-    "for": 333,
-    "against": 334,
-    "difference": -1,
-    "points": "11-0"
+    "for": 420,
+    "against": 416,
+    "difference": 4,
+    "points": "14-0"
   },
   {
     "position": 5,

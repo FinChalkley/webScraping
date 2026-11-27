@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-11-26",
-    "time": "19:50",
-    "home": "Leadonites",
-    "away": "White Sharks",
-    "opponent": "White Sharks"
-  },
-  {
     "date": "2026-12-03",
     "time": "19:50",
     "home": "Leadonites",
@@ -19,5 +12,12 @@
     "home": "Leadonites",
     "away": "Chargers",
     "opponent": "Chargers"
+  },
+  {
+    "date": "2027-03-17",
+    "time": "20:15",
+    "home": "White Sharks",
+    "away": "Leadonites",
+    "opponent": "White Sharks"
   }
 ]
